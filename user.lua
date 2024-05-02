@@ -1,1 +1,1 @@
-local user = "joss223344", "memo114455"
+local user = {"joss223344", "memo114455"}
